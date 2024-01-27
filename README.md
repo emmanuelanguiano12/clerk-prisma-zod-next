@@ -25,3 +25,9 @@ MongoDB
 
 ## Authentication:
 Clerk
+
+![image](https://github.com/emmanuelanguiano12/clerk-prisma-zod-next/assets/139512099/0574dfae-1a9a-4be0-b134-0d3cf447bd48)
+
+![image](https://github.com/emmanuelanguiano12/clerk-prisma-zod-next/assets/139512099/943a2069-0be6-4cc7-bd4c-e3b10deed0e8)
+
+![image](https://github.com/emmanuelanguiano12/clerk-prisma-zod-next/assets/139512099/fb0c1d81-d995-47ce-a360-43716dcb48c9)
