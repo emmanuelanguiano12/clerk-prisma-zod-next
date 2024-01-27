@@ -15,10 +15,12 @@ Personalized To-Do Lists: Provide each registered user with a dedicated space to
 # Technology Stack
 ## Frontend:
 Next.js
+
 TypeScript
 
 ## Backend:
 Prisma
+
 MongoDB
 
 ## Authentication:
